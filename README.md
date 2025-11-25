@@ -68,25 +68,28 @@ current flows through its emitter generating the voltage across the resistance c
 
 ## BLOCK DIAGR
 
+<img width="976" height="409" alt="Screenshot 2025-11-25 094519" src="https://github.com/user-attachments/assets/63c3cdde-3ac3-4414-bb84-1e3fcc9129a9" />
 
 ---
 
 
 ## TABULATION  
 **Transmission through Analog Link**
+![Exp 4 tabulation](https://github.com/user-attachments/assets/581a5f83-ab6b-44e3-aa2d-a7fe625270a0)
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+<img width="1055" height="455" alt="Screenshot 2025-11-25 094428" src="https://github.com/user-attachments/assets/7b4b0fd5-3be3-460d-8cf8-eab5ad426342" />
+
+![Exp 4 Graph](https://github.com/user-attachments/assets/57c98f6e-3b37-4074-827b-7b8848f3e667)
+
+
 
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+The transmitted and received waveforms for the 660 nm fiber link matched closely, confirming faithful analog and digital signal transfer. Output amplitude decreased with increasing frequency, showing the fiber link’s frequency-dependent response. The calculated –3 dB point confirms the bandwidth of the 660 nm analog/digital fiber optic link.
